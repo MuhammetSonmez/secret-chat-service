@@ -1,0 +1,3 @@
+GET /contact/contact_requests HTTP/1.1
+Host: 127.0.0.1:5000
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtYW1pIiwiZXhwIjoxNzI1Mjk5NTQyfQ.b4VUO_rDnbFXLEnMCKnVu5iJHUmVNOcThtWufbJB-BA

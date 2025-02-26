@@ -1,0 +1,3 @@
+GET /contact/list_contacts HTTP/1.1
+Host: 127.0.0.1:5000
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtYW1pIiwiZXhwIjoxNzI1MjkyNTc4fQ.LfLKW0aexG4l11-dBVO1E2XZdg6sIJ8GOrgC2lRbXRQ

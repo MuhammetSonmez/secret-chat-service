@@ -1,0 +1,8 @@
+POST /contact/delete_contact_request HTTP/1.1
+Host: 127.0.0.1:5000
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyIiwiZXhwIjoxNzI0MDA0OTEzfQ.XmXhpb_Kja5EfSGnEk2HBydwhB6w9hmI8Z4dWJEGbmc
+
+{
+    "sender": "admin"
+}

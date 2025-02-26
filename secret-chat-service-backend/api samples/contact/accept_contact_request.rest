@@ -1,0 +1,8 @@
+POST /contact/accept_contact_request HTTP/1.1
+Host: 127.0.0.1:5000
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyIiwiZXhwIjoxNzI1MDc4MTQ1fQ.ij9gouZs5XhvUc2nsG-CitItldYTztj6uqhgoJKGmN0
+
+{
+    "sender": "aa"
+}

@@ -1,0 +1,5 @@
+POST /user/logout HTTP/1.1
+Host: 127.0.0.1:5000
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VybmFtZTIiLCJleHAiOjE3MjUxNDQyMTN9.jmb7xt36TSGImg1lZSvodxwi4TdzpqJ5RYhhno2EfHQ
+Content-Type: application/json
+

@@ -1,0 +1,4 @@
+GET /user/current_user HTTP/1.1
+Host: 127.0.0.1:5000
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZXN0IiwiZXhwIjoxNzI1MTQzOTc2fQ._nLJvzSTLAYn4yu1Molxp2v-rrk10vlT5YBenW9y0t8
+Content-Type: application/json

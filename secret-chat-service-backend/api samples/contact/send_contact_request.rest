@@ -1,0 +1,8 @@
+POST /contact/send_contact_request HTTP/1.1
+Host: 127.0.0.1:5000
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyIiwiZXhwIjoxNzI1Mjk5NTE0fQ.4LTUP6A60MtDb9mFOvQ39lqe_n5chuBP2LBB5cWx4hw
+
+{
+    "contact": "mami"
+}

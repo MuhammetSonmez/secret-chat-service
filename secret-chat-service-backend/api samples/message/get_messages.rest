@@ -1,0 +1,3 @@
+GET /message/messages?user=admin&key=Zku_r2Qx4gMVsOhxwbVH3A9X_pYViJIOShRzFEExOqM= HTTP/1.1
+Host: 127.0.0.1:5000
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhYSIsImV4cCI6MTcyNDk3NTE1MX0.I4sLBZQUB2FQewPKo2foqPZlkAqXDI84FS4xAHAtGYE

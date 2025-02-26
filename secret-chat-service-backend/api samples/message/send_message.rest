@@ -1,0 +1,10 @@
+POST /message/send_message HTTP/1.1
+Host: 127.0.0.1:5000
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhYSIsImV4cCI6MTcyNTA3ODA5Nn0.vY7Jg0wGVKQkCgnePAkh3QB_womotmqOKYWiKeBqWQQ
+
+{
+  "recipient": "user",
+  "message": "Merhaba, nasılsın?",
+  "key": "Zku_r2Qx4gMVsOhxwbVH3A9X_pYViJIOShRzFEExOqM="
+}
