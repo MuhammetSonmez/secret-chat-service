@@ -3,6 +3,8 @@
 ## Project Description
 Secret Chat Service allows users to communicate securely using a custom encryption key. If the encryption key is changed, all previous messages are deleted to ensure maximum privacy.
 
+In an era where data privacy is frequently compromised, this project provides a secure and decentralized way for individuals to communicate without relying on third-party services. By allowing users to control their own encryption keys, Secret Chat Service ensures that conversations remain private and inaccessible to unauthorized parties. The automatic deletion of messages when the encryption key changes further enhances security by preventing unauthorized access to old conversations.
+
 ## Features
 - End-to-end encryption: Users can securely chat using a custom encryption key.
 - Dynamic encryption key: If the key is changed, previous conversations are automatically erased.
