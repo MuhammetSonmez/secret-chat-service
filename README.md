@@ -19,22 +19,6 @@ In an era where data privacy is frequently compromised, this project provides a 
 ## Contributing
 To contribute to this project, please fork the repository and submit your changes via a pull request.
 
-![g0](https://github.com/user-attachments/assets/cd403744-db4d-4f2c-a6a5-25c57ce190b7)
-
-![g01](https://github.com/user-attachments/assets/fb2021a0-85c8-4dd8-a381-d07aaab5c038)
-
-![g1](https://github.com/user-attachments/assets/de07139c-70d2-4243-9f36-de12d198b916)
-
-![g2](https://github.com/user-attachments/assets/cd4dadb9-9e60-4cb6-86a1-a72c90d0f437)
-
-![g3](https://github.com/user-attachments/assets/75159289-9a4f-406b-9a32-0dcded074c15)
-
-![g4](https://github.com/user-attachments/assets/a4bb3d9b-a6eb-4044-9d7d-c8393340cbf4)
-
-![g5](https://github.com/user-attachments/assets/2d2a3cdb-5cc1-4f0a-ac78-cfe83aee4e60)
-
-![g6](https://github.com/user-attachments/assets/36aa0486-d27f-43ec-9696-c0117c319858)
-
 
 <img src="https://github.com/user-attachments/assets/cd403744-db4d-4f2c-a6a5-25c57ce190b7" width="30%" height="30%" />
 <img src="https://github.com/user-attachments/assets/fb2021a0-85c8-4dd8-a381-d07aaab5c038" width="30%" height="30%" />
