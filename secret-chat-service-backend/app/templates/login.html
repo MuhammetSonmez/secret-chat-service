@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/login.css') }}">
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.ico') }}" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <h1>App Name</h1>
+    </header>
+    <main>
+        <section class="form-section">
+            <div class="switch-button">
+                <span class="switch-text">Login</span>
+                <input type="checkbox" id="switch-toggle">
+                <label for="switch-toggle"></label>
+                <span class="switch-text">Register</span>
+            </div>
+            <div class="form-wrapper">
+                <div class="form-container front">
+                    <h2>Login</h2>
+                    <form id="login-form">
+                        <div class="form-group">
+                            <label for="login-username">Username</label>
+                            <input type="text" id="login-username" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="login-password">Password</label>
+                            <input type="password" id="login-password" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="use-key">Key</label>
+                            <input type="text" id="use-key">
+                        </div>
+                        
+                        <button type="submit">Login</button>
+                    </form>
+                    <div id="login-message" class="message"></div>
+                </div>
+
+                <div class="form-container back">
+                    <h2>Register</h2>
+                    <form id="register-form">
+                        <div class="form-group">
+                            <label for="register-username">Username</label>
+                            <input type="text" id="register-username" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="register-password">Password</label>
+                            <input type="password" id="register-password" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="register-confirm-password">Confirm Password</label>
+                            <input type="password" id="register-confirm-password" required>
+                        </div>
+                        <button type="submit">Register</button>
+                    </form>
+                    <div id="register-message" class="message"></div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <script src="{{ url_for('static', filename='js/login.js') }}"></script>
+</body>
+</html>

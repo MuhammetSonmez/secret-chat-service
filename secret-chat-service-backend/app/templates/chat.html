@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Application</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/chat.css') }}">
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.ico') }}" type="image/x-icon">
+    <!-- Font Awesome CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header class="navbar">
+        <input type="text" class="search-input" placeholder="Search...">
+        <button class="key-button">
+            <i class="fas fa-key" style="color: gray;"></i>
+            <i class="fas fa-plus" style="color: gray; margin-left: 8px;"></i>
+        </button>
+    </header>
+    <main class="contact-list" id="contact-list">
+        <!-- Contacts will be dynamically loaded here -->
+    </main>
+    <!-- Modal for Contact Operations -->
+    <div id="contact-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Contact Operations</h2>
+                <span class="close">&times;</span>
+            </div>
+            <div class="modal-body">
+                <input type="text" id="contact-username" placeholder="Enter username">
+                <button id="send-request">Send Request</button>
+                <div id="request-message" class="message"></div>
+    
+                <h3>Incoming Contact Requests</h3>
+                <div id="contact-requests-list" class="contact-requests-list">
+                    <!-- Incoming requests will be dynamically loaded here -->
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Modal for Key Operations -->
+    <div id="key-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Secret Key Operations</h2>
+                <span class="close">&times;</span>
+            </div>
+            <div class="modal-body">
+                <button id="generate-key">Generate New Key</button>
+                <div id="key-display" class="key-display">
+                    <input type="text" id="key-input" readonly>
+                    <button id="copy-key" class="copy-button">Copy</button>
+                    <button id="use-key" class="use-button">Use Key</button>
+                </div>
+                <div id="key-message" class="message"></div>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+</body>
+</html>
