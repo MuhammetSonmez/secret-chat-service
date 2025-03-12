@@ -19,16 +19,31 @@ In an era where data privacy is frequently compromised, this project provides a 
 ## Contributing
 To contribute to this project, please fork the repository and submit your changes via a pull request.
 
-![image](https://github.com/user-attachments/assets/36f70bea-7268-4826-8483-47c483dad4e9)
+![g0](https://github.com/user-attachments/assets/cd403744-db4d-4f2c-a6a5-25c57ce190b7)
 
-![image](https://github.com/user-attachments/assets/56a0ad68-5222-4992-8410-4a8f4196cd19)
+![g01](https://github.com/user-attachments/assets/fb2021a0-85c8-4dd8-a381-d07aaab5c038)
 
-<img src="https://github.com/user-attachments/assets/f34f106d-2a69-4ebb-acf9-05c722a4e5e9" width="30%" height="30%" />
-<img src="https://github.com/user-attachments/assets/dccee0b6-9ec9-46b3-9dec-e99ab89a0191" width="30%" height="30%" />
-<img src="https://github.com/user-attachments/assets/cedada2c-daac-46d5-9f98-8a49d1c72fff" width="30%" height="30%" />
-<img src="https://github.com/user-attachments/assets/f382ddf1-9ce9-426d-9d36-e655b6be0996" width="30%" height="30%" />
-<img src="https://github.com/user-attachments/assets/226605fc-3837-4f63-8e27-4ae95b9077f7" width="30%" height="30%" />
-<img src="https://github.com/user-attachments/assets/72d9e672-9718-49f9-b43f-2cf2a283384f" width="30%" height="30%" />
+![g1](https://github.com/user-attachments/assets/de07139c-70d2-4243-9f36-de12d198b916)
+
+![g2](https://github.com/user-attachments/assets/cd4dadb9-9e60-4cb6-86a1-a72c90d0f437)
+
+![g3](https://github.com/user-attachments/assets/75159289-9a4f-406b-9a32-0dcded074c15)
+
+![g4](https://github.com/user-attachments/assets/a4bb3d9b-a6eb-4044-9d7d-c8393340cbf4)
+
+![g5](https://github.com/user-attachments/assets/2d2a3cdb-5cc1-4f0a-ac78-cfe83aee4e60)
+
+![g6](https://github.com/user-attachments/assets/36aa0486-d27f-43ec-9696-c0117c319858)
+
+
+<img src="https://github.com/user-attachments/assets/cd403744-db4d-4f2c-a6a5-25c57ce190b7" width="30%" height="30%" />
+<img src="https://github.com/user-attachments/assets/fb2021a0-85c8-4dd8-a381-d07aaab5c038" width="30%" height="30%" />
+<img src="https://github.com/user-attachments/assets/de07139c-70d2-4243-9f36-de12d198b916" width="30%" height="30%" />
+<img src="https://github.com/user-attachments/assets/cd4dadb9-9e60-4cb6-86a1-a72c90d0f437" width="30%" height="30%" />
+<img src="https://github.com/user-attachments/assets/75159289-9a4f-406b-9a32-0dcded074c15" width="30%" height="30%" />
+<img src="https://github.com/user-attachments/assets/a4bb3d9b-a6eb-4044-9d7d-c8393340cbf4" width="30%" height="30%" />
+<img src="https://github.com/user-attachments/assets/2d2a3cdb-5cc1-4f0a-ac78-cfe83aee4e60" width="30%" height="30%" />
+<img src="https://github.com/user-attachments/assets/36aa0486-d27f-43ec-9696-c0117c319858" width="30%" height="30%" />
 
 
 
